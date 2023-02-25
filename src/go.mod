@@ -27,8 +27,6 @@ require (
 	github.com/pierrec/lz4 v2.5.2+incompatible // indirect
 	github.com/robertkrimen/otto v0.0.0-20191219234010-c382bd3c16ff
 	github.com/satori/go.uuid v1.2.0
-	github.com/smartystreets/cproxy v1.0.2
-	github.com/smartystreets/logging v1.1.1 // indirect
 	github.com/spf13/afero v1.3.1
 	github.com/stretchr/testify v1.7.0 // indirect
 	github.com/tidwall/pretty v1.0.2
@@ -40,6 +38,6 @@ require (
 	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d // indirect
 	golang.org/x/oauth2 v0.0.0-20210615190721-d04028783cf1
 	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210817190340-bfb29a6856f2 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 )
