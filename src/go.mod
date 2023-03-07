@@ -27,8 +27,6 @@ require (
 	github.com/pierrec/lz4 v2.5.2+incompatible // indirect
 	github.com/robertkrimen/otto v0.0.0-20191219234010-c382bd3c16ff
 	github.com/satori/go.uuid v1.2.0
-	github.com/smartystreets/cproxy v1.0.2
-	github.com/smartystreets/logging v1.1.1 // indirect
 	github.com/spf13/afero v1.3.1
 	github.com/stretchr/testify v1.7.0 // indirect
 	github.com/tidwall/pretty v1.0.2
@@ -36,10 +34,8 @@ require (
 	github.com/valyala/fasttemplate v1.1.0
 	gitlab.com/NebulousLabs/fastrand v0.0.0-20181126182046-603482d69e40 // indirect
 	gitlab.com/NebulousLabs/go-upnp v0.0.0-20181011194642-3a71999ed0d3
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
-	golang.org/x/net v0.0.0-20210813160813-60bc85c4be6d // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210615190721-d04028783cf1
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/sys v0.0.0-20210817190340-bfb29a6856f2 // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 )
